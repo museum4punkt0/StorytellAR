@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 988b65c5059284822b6f214ac9bcdcaf
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ____Outer
+    100002: ____Outer_revNormals
+    100004: ____Structure
+    100006: ____Structure_revNormals
+    100008: Chamber_1
+    100010: Chamber_2
+    100012: House
+    100014: //RootNode
+    100016: Laying_figure
+    100018: Laying_Sculpture
+    100020: PlaneBack
+    100022: PlaneLeft
+    100024: PlaneRight
+    100026: Puti
+    100028: Puti_2
+    100030: Puti_revNormals
+    100032: WallBack01
+    100034: WallBack01_2
+    100036: WallLeft01
+    100038: WallLeft01_2
+    100040: WallRight01
+    100042: WallRight01_2
+    400000: ____Outer
+    400002: ____Outer_revNormals
+    400004: ____Structure
+    400006: ____Structure_revNormals
+    400008: Chamber_1
+    400010: Chamber_2
+    400012: House
+    400014: //RootNode
+    400016: Laying_figure
+    400018: Laying_Sculpture
+    400020: PlaneBack
+    400022: PlaneLeft
+    400024: PlaneRight
+    400026: Puti
+    400028: Puti_2
+    400030: Puti_revNormals
+    400032: WallBack01
+    400034: WallBack01_2
+    400036: WallLeft01
+    400038: WallLeft01_2
+    400040: WallRight01
+    400042: WallRight01_2
+    2100000: reed
+    2100002: sticks
+    2100004: front wall
+    2100006: entrance
+    2100008: decoration
+    2100010: reed.1
+    2100012: front wall.1
+    2100014: entrance.1
+    2100016: decoration.1
+    2100018: structure stics
+    2100020: WallLeft01
+    2100022: WallBack
+    2100024: WallRight
+    2100026: Mat.1
+    2100028: LayingSculpture
+    2100030: Mat
+    2300000: ____Outer
+    2300002: ____Outer_revNormals
+    2300004: ____Structure
+    2300006: ____Structure_revNormals
+    2300008: Laying_Sculpture
+    2300010: PlaneBack
+    2300012: PlaneLeft
+    2300014: PlaneRight
+    2300016: Puti_2
+    2300018: Puti_revNormals
+    2300020: WallBack01
+    2300022: WallBack01_2
+    2300024: WallLeft01
+    2300026: WallLeft01_2
+    2300028: WallRight01
+    2300030: WallRight01_2
+    3300000: ____Outer
+    3300002: ____Outer_revNormals
+    3300004: ____Structure
+    3300006: ____Structure_revNormals
+    3300008: Laying_Sculpture
+    3300010: PlaneBack
+    3300012: PlaneLeft
+    3300014: PlaneRight
+    3300016: Puti_2
+    3300018: Puti_revNormals
+    3300020: WallBack01
+    3300022: WallBack01_2
+    3300024: WallLeft01
+    3300026: WallLeft01_2
+    3300028: WallRight01
+    3300030: WallRight01_2
+    4300000: ____Outer_revNormals
+    4300002: ____Outer
+    4300004: ____Structure_revNormals
+    4300006: ____Structure
+    4300008: WallLeft01
+    4300010: WallBack01
+    4300012: WallRight01
+    4300014: WallLeft01_2
+    4300016: PlaneLeft
+    4300018: WallBack01_2
+    4300020: PlaneBack
+    4300022: WallRight01_2
+    4300024: PlaneRight
+    4300026: Laying_Sculpture
+    4300028: Puti_revNormals
+    4300030: Puti_2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: nostream
+  assetBundleVariant: 

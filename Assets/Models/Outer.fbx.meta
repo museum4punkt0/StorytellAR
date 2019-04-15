@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: f641e184f60d24c868505ca8638f3fa8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ________BUILD
+    100002: ____Outer
+    100004: backleaning_sidebeam
+    100006: Branch1
+    100008: Branch2
+    100010: Branch3
+    100012: Branch4
+    100014: Branch5
+    100016: Branch6
+    100018: Branch7
+    100020: carrying_poles
+    100022: carrying_poles_1
+    100024: carrying_poles_2
+    100026: CINEMA_4D_Editor
+    100028: Cloner_1
+    100030: emerge___thatched_roof
+    100032: entrance
+    100034: foreward_leaning_sidebeams
+    100036: foreward_leaning_sidebeams_1
+    100038: foreward_leaning_sidebeams_2
+    100040: foreward_leaning_sidebeams_3
+    100042: foreward_leaning_sidebeams_4
+    100044: foreward_leaning_sidebeams_5
+    100046: foreward_leaning_sidebeams_6
+    100048: foreward_leaning_sidebeams_7
+    100050: foreward_leaning_sidebeams_8
+    100052: foreward_leaning_sidebeams___overshoot
+    100054: foreward_leaning_sidebeams___overshoot_1
+    100056: foreward_leaning_sidebeams___overshoot_2
+    100058: foreward_leaning_sidebeams___overshoot_3
+    100060: foreward_leaning_sidebeams___overshoot_4
+    100062: foreward_leaning_sidebeams___overshoot_5
+    100064: foreward_leaning_sidebeams___overshoot_6
+    100066: foreward_leaning_sidebeams___overshoot_7
+    100068: foreward_leaning_sidebeams___overshoot_8
+    100070: front
+    100072: front_decoration
+    100074: front_wall
+    100076: horizontal_sidebeams
+    100078: horizontal_sidebeams_1
+    100080: horizontal_sidebeams_2
+    100082: horizontal_sidebeams_3
+    100084: horizontal_sidebeams_4
+    100086: horizontal_sidebeams_5
+    100088: horizontal_sidebeams_6
+    100090: horizontal_sidebeams___overshoot
+    100092: horizontal_sidebeams___overshoot_1
+    100094: horizontal_sidebeams___overshoot_2
+    100096: horizontal_sidebeams___overshoot_3
+    100098: horizontal_sidebeams___overshoot_4
+    100100: horizontal_sidebeams___overshoot_5
+    100102: horizontal_sidebeams___overshoot_6
+    100104: hull
+    100106: hull_1
+    100108: hull_2
+    100110: hull_2_2
+    100112: hull_sides
+    100114: hull_symmetry
+    100116: leaning_beam_in_the_front
+    100118: Null
+    100120: other_branches
+    100122: //RootNode
+    100124: pole_beam
+    100126: pole_beam___overshoot
+    100128: Reed
+    100130: ridgeline
+    100132: Spline_1
+    100134: straight_up_beams
+    100136: straight_up_beams_1
+    100138: straight_up_beams_2
+    100140: straight_up_beams_3
+    100142: straight_up_beams_4
+    100144: straight_up_beams_5
+    100146: straight_up_beams_6
+    100148: straight_up_beams_7
+    100150: straight_up_beams_8
+    100152: Sweep
+    100154: thatched_roof
+    100156: transparency___entrance
+    100158: transparency___front_decoration
+    100160: transparency___front_wall
+    100162: transparency___hull
+    100164: underlaying_splines
+    100166: vertical_sidebeams
+    100168: vertical_sidebeams_1
+    100170: vertical_sidebeams_2
+    100172: vertical_sidebeams_3
+    100174: vertical_sidebeams_4
+    100176: vertical_sidebeams_5
+    100178: vertical_sidebeams_6
+    100180: vertical_sidebeams_7
+    100182: vertical_sidebeams___overshoot
+    100184: vertical_sidebeams___overshoot_1
+    100186: vertical_sidebeams___overshoot_2
+    100188: vertical_sidebeams___overshoot_3
+    100190: vertical_sidebeams___overshoot_4
+    100192: vertical_sidebeams___overshoot_5
+    100194: vertical_sidebeams___overshoot_6
+    100196: vertical_sidebeams___overshoot_7
+    100198: entrance_revNormals
+    100200: front_decoration_revNormals
+    100202: front_wall_revNormals
+    100204: hull_revNormals
+    100206: thatched_roof_revNormals
+    400000: ________BUILD
+    400002: ____Outer
+    400004: backleaning_sidebeam
+    400006: Branch1
+    400008: Branch2
+    400010: Branch3
+    400012: Branch4
+    400014: Branch5
+    400016: Branch6
+    400018: Branch7
+    400020: carrying_poles
+    400022: carrying_poles_1
+    400024: carrying_poles_2
+    400026: CINEMA_4D_Editor
+    400028: Cloner_1
+    400030: emerge___thatched_roof
+    400032: entrance
+    400034: foreward_leaning_sidebeams
+    400036: foreward_leaning_sidebeams_1
+    400038: foreward_leaning_sidebeams_2
+    400040: foreward_leaning_sidebeams_3
+    400042: foreward_leaning_sidebeams_4
+    400044: foreward_leaning_sidebeams_5
+    400046: foreward_leaning_sidebeams_6
+    400048: foreward_leaning_sidebeams_7
+    400050: foreward_leaning_sidebeams_8
+    400052: foreward_leaning_sidebeams___overshoot
+    400054: foreward_leaning_sidebeams___overshoot_1
+    400056: foreward_leaning_sidebeams___overshoot_2
+    400058: foreward_leaning_sidebeams___overshoot_3
+    400060: foreward_leaning_sidebeams___overshoot_4
+    400062: foreward_leaning_sidebeams___overshoot_5
+    400064: foreward_leaning_sidebeams___overshoot_6
+    400066: foreward_leaning_sidebeams___overshoot_7
+    400068: foreward_leaning_sidebeams___overshoot_8
+    400070: front
+    400072: front_decoration
+    400074: front_wall
+    400076: horizontal_sidebeams
+    400078: horizontal_sidebeams_1
+    400080: horizontal_sidebeams_2
+    400082: horizontal_sidebeams_3
+    400084: horizontal_sidebeams_4
+    400086: horizontal_sidebeams_5
+    400088: horizontal_sidebeams_6
+    400090: horizontal_sidebeams___overshoot
+    400092: horizontal_sidebeams___overshoot_1
+    400094: horizontal_sidebeams___overshoot_2
+    400096: horizontal_sidebeams___overshoot_3
+    400098: horizontal_sidebeams___overshoot_4
+    400100: horizontal_sidebeams___overshoot_5
+    400102: horizontal_sidebeams___overshoot_6
+    400104: hull
+    400106: hull_1
+    400108: hull_2
+    400110: hull_2_2
+    400112: hull_sides
+    400114: hull_symmetry
+    400116: leaning_beam_in_the_front
+    400118: Null
+    400120: other_branches
+    400122: //RootNode
+    400124: pole_beam
+    400126: pole_beam___overshoot
+    400128: Reed
+    400130: ridgeline
+    400132: Spline_1
+    400134: straight_up_beams
+    400136: straight_up_beams_1
+    400138: straight_up_beams_2
+    400140: straight_up_beams_3
+    400142: straight_up_beams_4
+    400144: straight_up_beams_5
+    400146: straight_up_beams_6
+    400148: straight_up_beams_7
+    400150: straight_up_beams_8
+    400152: Sweep
+    400154: thatched_roof
+    400156: transparency___entrance
+    400158: transparency___front_decoration
+    400160: transparency___front_wall
+    400162: transparency___hull
+    400164: underlaying_splines
+    400166: vertical_sidebeams
+    400168: vertical_sidebeams_1
+    400170: vertical_sidebeams_2
+    400172: vertical_sidebeams_3
+    400174: vertical_sidebeams_4
+    400176: vertical_sidebeams_5
+    400178: vertical_sidebeams_6
+    400180: vertical_sidebeams_7
+    400182: vertical_sidebeams___overshoot
+    400184: vertical_sidebeams___overshoot_1
+    400186: vertical_sidebeams___overshoot_2
+    400188: vertical_sidebeams___overshoot_3
+    400190: vertical_sidebeams___overshoot_4
+    400192: vertical_sidebeams___overshoot_5
+    400194: vertical_sidebeams___overshoot_6
+    400196: vertical_sidebeams___overshoot_7
+    400198: entrance_revNormals
+    400200: front_decoration_revNormals
+    400202: front_wall_revNormals
+    400204: hull_revNormals
+    400206: thatched_roof_revNormals
+    2000000: CINEMA_4D_Editor
+    2100000: map_texture
+    2100002: sticks
+    2100004: front wall
+    2100006: entrance
+    2100008: decoration
+    2100010: Mat.3
+    2100012: Mat
+    2100014: No Name
+    2100016: reed
+    2100018: reed.1
+    2100020: front wall.1
+    2100022: entrance.1
+    2100024: decoration.1
+    2300000: Branch1
+    2300002: Branch2
+    2300004: Branch3
+    2300006: Branch4
+    2300008: Branch5
+    2300010: Branch6
+    2300012: Branch7
+    2300014: entrance
+    2300016: front_decoration
+    2300018: front_wall
+    2300020: hull
+    2300022: hull_1
+    2300024: hull_2
+    2300026: hull_2_2
+    2300028: hull_sides
+    2300030: thatched_roof
+    2300032: entrance_revNormals
+    2300034: front_decoration_revNormals
+    2300036: front_wall_revNormals
+    2300038: hull_revNormals
+    2300040: thatched_roof_revNormals
+    3300000: Branch1
+    3300002: Branch2
+    3300004: Branch3
+    3300006: Branch4
+    3300008: Branch5
+    3300010: Branch6
+    3300012: Branch7
+    3300014: entrance
+    3300016: front_decoration
+    3300018: front_wall
+    3300020: hull
+    3300022: hull_1
+    3300024: hull_2
+    3300026: hull_2_2
+    3300028: hull_sides
+    3300030: thatched_roof
+    3300032: entrance_revNormals
+    3300034: front_decoration_revNormals
+    3300036: front_wall_revNormals
+    3300038: hull_revNormals
+    3300040: thatched_roof_revNormals
+    4300000: hull
+    4300002: thatched_roof
+    4300004: front_wall
+    4300006: entrance
+    4300008: front_decoration
+    4300010: hull_1
+    4300012: hull_2
+    4300014: hull_sides
+    4300016: hull_2_2
+    4300018: Branch1
+    4300020: Branch2
+    4300022: Branch3
+    4300024: Branch4
+    4300026: Branch5
+    4300028: Branch6
+    4300030: Branch7
+    4300032: hull_revNormals
+    4300034: thatched_roof_revNormals
+    4300036: front_wall_revNormals
+    4300038: entrance_revNormals
+    4300040: front_decoration_revNormals
+    7400000: CINEMA_4D_Main
+    9500000: //RootNode
+    10800000: emerge___thatched_roof
+    10800002: transparency___entrance
+    10800004: transparency___front_decoration
+    10800006: transparency___front_wall
+    10800008: transparency___hull
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat
+    second: {fileID: 2100000, guid: 1863d13787d8243e9a9ec67459383ead, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.3
+    second: {fileID: 2100000, guid: a62835946071b495881d8bb550f0bc23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 5e9d298c34dcc4929a4dd8278531355e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: decoration
+    second: {fileID: 2100000, guid: 69be73bee01034102ae6a93cc42f81ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: decoration.1
+    second: {fileID: 2100000, guid: 4ce72fb2cd23241408485679bebc333d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: entrance
+    second: {fileID: 2100000, guid: 093f48e370af045fcbe47e8f76465025, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: entrance.1
+    second: {fileID: 2100000, guid: 093f48e370af045fcbe47e8f76465025, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: front wall
+    second: {fileID: 2100000, guid: 29a1e6e1ce702499bbcadd26df7f67fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: front wall.1
+    second: {fileID: 2100000, guid: 29a1e6e1ce702499bbcadd26df7f67fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: map_texture
+    second: {fileID: 2100000, guid: d096c839732244e98b6c433669b6ebeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: reed
+    second: {fileID: 2100000, guid: 7fb0014771dc44a1c8cc7937cfd214d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: reed.1
+    second: {fileID: 2100000, guid: 5e3521ae7c3ef4251ad32845c6c6cc26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sticks
+    second: {fileID: 2100000, guid: b9e2144ab6b4141898c87715360a487e, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Entrance_1
+    second: {fileID: 2800000, guid: 4b676cb79089d49d9a8054600b552dc2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Entrance_bw
+    second: {fileID: 2800000, guid: 7e9b6b0be3b214904b89c841cad1e044, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Front_decoration_1
+    second: {fileID: 2800000, guid: c8dadca489c5e475aa7552d0e1e4cb09, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Front_decoration_2
+    second: {fileID: 2800000, guid: 346a16cef620f4da5a5277e7ec1dff3a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Front_decoration_BW_1
+    second: {fileID: 2800000, guid: 0ea50b7e708404caea15fe1913c945fa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Front_wall
+    second: {fileID: 2800000, guid: fdd5c0b25391140c7b000189af27c7a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Thatched0037_7_S
+    second: {fileID: 2800000, guid: 500977b42a90b4c7db2264903348a8e8, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: nostream
+  assetBundleVariant: 

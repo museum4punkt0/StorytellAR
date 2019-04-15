@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 88a66494917df49a39eda80d4c2c1df9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: entrance
+    100002: front
+    100004: front_decoration
+    100006: front_wall
+    100008: hull
+    100010: //RootNode
+    100012: Reed
+    100014: thatched_roof
+    100016: entrance_2
+    100018: front_decoration_2
+    100020: front_revNormals
+    100022: front_wall_2
+    100024: hull_2
+    100026: Reed_revNormals
+    100028: thatched_roof_2
+    400000: entrance
+    400002: front
+    400004: front_decoration
+    400006: front_wall
+    400008: hull
+    400010: //RootNode
+    400012: Reed
+    400014: thatched_roof
+    400016: entrance_2
+    400018: front_decoration_2
+    400020: front_revNormals
+    400022: front_wall_2
+    400024: hull_2
+    400026: Reed_revNormals
+    400028: thatched_roof_2
+    2100000: reed
+    2100002: sticks
+    2100004: front wall
+    2100006: entrance
+    2100008: decoration
+    2100010: reed.1
+    2100012: front wall.1
+    2100014: entrance.1
+    2100016: decoration.1
+    2300000: entrance
+    2300002: front_decoration
+    2300004: front_wall
+    2300006: hull
+    2300008: thatched_roof
+    2300010: entrance_2
+    2300012: front_decoration_2
+    2300014: front_wall_2
+    2300016: hull_2
+    2300018: thatched_roof_2
+    3300000: entrance
+    3300002: front_decoration
+    3300004: front_wall
+    3300006: hull
+    3300008: thatched_roof
+    3300010: entrance_2
+    3300012: front_decoration_2
+    3300014: front_wall_2
+    3300016: hull_2
+    3300018: thatched_roof_2
+    4300000: hull
+    4300002: thatched_roof
+    4300004: front_wall
+    4300006: entrance
+    4300008: front_decoration
+    4300010: hull_2
+    4300012: thatched_roof_2
+    4300014: front_wall_2
+    4300016: entrance_2
+    4300018: front_decoration_2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: decoration
+    second: {fileID: 2100000, guid: 896b9ec8c6ee4452cbab472eef7e4f79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: entrance
+    second: {fileID: 2100000, guid: 093f48e370af045fcbe47e8f76465025, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: front wall
+    second: {fileID: 2100000, guid: 559af365f183b49b384ee0d825eda4a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: reed
+    second: {fileID: 2100016, guid: f641e184f60d24c868505ca8638f3fa8, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sticks
+    second: {fileID: 2100000, guid: b9e2144ab6b4141898c87715360a487e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: nostream
+  assetBundleVariant: 

@@ -1,0 +1,366 @@
+fileFormatVersion: 2
+guid: 408af1644b38b4938b7879ce3af1956a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ____Outer
+    100002: ____Structure_1
+    100004: Chamber_1
+    100006: Chamber_2
+    100008: House
+    100010: //RootNode
+    100012: Laying_figure
+    100014: Laying_Sculpture
+    100016: Puti
+    100018: Puti_2
+    100020: WallBack01
+    100022: WallBack01_2
+    100024: WallLeft01
+    100026: WallLeft01_2
+    100028: WallRight01
+    100030: WallRight01_2
+    100032: ____Outer_revNormals
+    100034: ____Structure
+    100036: ____Structure_revNormals
+    100038: PlaneBack
+    100040: PlaneBack_2
+    100042: PlaneLeft
+    100044: PlaneLeft_2
+    100046: PlaneRight
+    100048: PlaneRight_2
+    100050: Puti_revNormals
+    100052: PlaneBack_1
+    100054: PlaneBack_1_2
+    100056: PlaneLeft_1
+    100058: PlaneLeft_1_2
+    100060: PlaneRight_1
+    100062: PlaneRight_1_2
+    400000: ____Outer
+    400002: ____Structure_1
+    400004: Chamber_1
+    400006: Chamber_2
+    400008: House
+    400010: //RootNode
+    400012: Laying_figure
+    400014: Laying_Sculpture
+    400016: Puti
+    400018: Puti_2
+    400020: WallBack01
+    400022: WallBack01_2
+    400024: WallLeft01
+    400026: WallLeft01_2
+    400028: WallRight01
+    400030: WallRight01_2
+    400032: ____Outer_revNormals
+    400034: ____Structure
+    400036: ____Structure_revNormals
+    400038: PlaneBack
+    400040: PlaneBack_2
+    400042: PlaneLeft
+    400044: PlaneLeft_2
+    400046: PlaneRight
+    400048: PlaneRight_2
+    400050: Puti_revNormals
+    400052: PlaneBack_1
+    400054: PlaneBack_1_2
+    400056: PlaneLeft_1
+    400058: PlaneLeft_1_2
+    400060: PlaneRight_1
+    400062: PlaneRight_1_2
+    2100000: reed
+    2100002: sticks
+    2100004: front wall
+    2100006: entrance
+    2100008: decoration
+    2100010: structure stics
+    2100012: WallLeft01
+    2100014: WallBack
+    2100016: WallRight
+    2100018: LayingSculpture
+    2100020: Mat
+    2100022: reed.1
+    2100024: front wall.1
+    2100026: entrance.1
+    2100028: decoration.1
+    2100030: Mat.1
+    2300000: ____Outer
+    2300002: ____Structure_1
+    2300004: Laying_Sculpture
+    2300006: Puti_2
+    2300008: WallBack01
+    2300010: WallBack01_2
+    2300012: WallLeft01
+    2300014: WallLeft01_2
+    2300016: WallRight01
+    2300018: WallRight01_2
+    2300020: ____Outer_revNormals
+    2300022: ____Structure
+    2300024: ____Structure_revNormals
+    2300026: PlaneBack
+    2300028: PlaneBack_2
+    2300030: PlaneLeft
+    2300032: PlaneLeft_2
+    2300034: PlaneRight
+    2300036: PlaneRight_2
+    2300038: Puti_revNormals
+    2300040: PlaneBack_1
+    2300042: PlaneBack_1_2
+    2300044: PlaneLeft_1
+    2300046: PlaneLeft_1_2
+    2300048: PlaneRight_1
+    2300050: PlaneRight_1_2
+    3300000: ____Outer
+    3300002: ____Structure_1
+    3300004: Laying_Sculpture
+    3300006: Puti_2
+    3300008: WallBack01
+    3300010: WallBack01_2
+    3300012: WallLeft01
+    3300014: WallLeft01_2
+    3300016: WallRight01
+    3300018: WallRight01_2
+    3300020: ____Outer_revNormals
+    3300022: ____Structure
+    3300024: ____Structure_revNormals
+    3300026: PlaneBack
+    3300028: PlaneBack_2
+    3300030: PlaneLeft
+    3300032: PlaneLeft_2
+    3300034: PlaneRight
+    3300036: PlaneRight_2
+    3300038: Puti_revNormals
+    3300040: PlaneBack_1
+    3300042: PlaneBack_1_2
+    3300044: PlaneLeft_1
+    3300046: PlaneLeft_1_2
+    3300048: PlaneRight_1
+    3300050: PlaneRight_1_2
+    4300000: ____Outer
+    4300002: ____Structure_1
+    4300004: WallLeft01
+    4300006: WallBack01
+    4300008: WallRight01
+    4300010: WallLeft01_2
+    4300012: WallBack01_2
+    4300014: WallRight01_2
+    4300016: Laying_Sculpture
+    4300018: Puti_2
+    4300020: ____Outer_revNormals
+    4300022: ____Structure_revNormals
+    4300024: ____Structure
+    4300026: PlaneLeft
+    4300028: PlaneBack
+    4300030: PlaneRight
+    4300032: PlaneLeft_2
+    4300034: PlaneBack_2
+    4300036: PlaneRight_2
+    4300038: Puti_revNormals
+    4300040: PlaneLeft_1
+    4300042: PlaneBack_1
+    4300044: PlaneRight_1
+    4300046: PlaneLeft_1_2
+    4300048: PlaneBack_1_2
+    4300050: PlaneRight_1_2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LayingSculpture
+    second: {fileID: 2100000, guid: 92d198dc555ac45c5b62ee4d1acbd44b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat
+    second: {fileID: 2100000, guid: 7713e8fc766f1431e988a1607e364a05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallBack
+    second: {fileID: 2100000, guid: 7b75094b6f52b4a5484d0ee35ef7aa34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallLeft01
+    second: {fileID: 2100000, guid: 190e4a51404a8499689572ce9ac9ff3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallRight
+    second: {fileID: 2100000, guid: 6077d8ccd8c924ce8a46b6166a72a6ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: decoration
+    second: {fileID: 2100000, guid: 896b9ec8c6ee4452cbab472eef7e4f79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: entrance
+    second: {fileID: 2100000, guid: aefd5e5fcba324d64abdcbce295a994d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: front wall
+    second: {fileID: 2100000, guid: 559af365f183b49b384ee0d825eda4a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: reed
+    second: {fileID: 2100000, guid: bf0e802c50b2043a9a8da1ce6bbf0a3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sticks
+    second: {fileID: 2100000, guid: ac06b35ebe8a344e8bb34380cca1d999, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: structure stics
+    second: {fileID: 2100000, guid: 6e17b93e11df44d33806954b6fbae18a, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Entrance_1
+    second: {fileID: 2800000, guid: 67da9df8383e344e5b101af4d8de4fdb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Entrance_bw
+    second: {fileID: 2800000, guid: 29c357f35ddcd4a99af0f1975f3b86da, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Front_decoration_1
+    second: {fileID: 2800000, guid: 8db032b72352e4c2e9ae63eec9c7fc5b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Front_decoration_2
+    second: {fileID: 2800000, guid: aea407654376a442db6d571229c6d4cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Front_decoration_BW_1
+    second: {fileID: 2800000, guid: 0b280f7dfc4724f4b983c49c81532f86, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Front_wall
+    second: {fileID: 2800000, guid: 411bd0993594946ec9ca289474fd63c0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LayingSculpture
+    second: {fileID: 2800000, guid: 8b1e04b981f474494a653ef7479b0476, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Puti_Half_01
+    second: {fileID: 2800000, guid: d493965616e1740e984cf813d1562721, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Thatched0037_7_S
+    second: {fileID: 2800000, guid: b0ab95022d50446a69d98d2654c4f35e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_WoodLogs0050_2_M
+    second: {fileID: 2800000, guid: bf505b92eb58d46c1a9df7972ede08a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WallBack01
+    second: {fileID: 2800000, guid: 18d000402fcb7466b860530de47e36e2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WallLeft01
+    second: {fileID: 2800000, guid: 5b998ae7e502e415e9939b785c670436, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WallRight01
+    second: {fileID: 2800000, guid: ce77c6284b204483dbe715dfd7c2f8d7, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: nostream
+  assetBundleVariant: 
