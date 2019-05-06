@@ -1,4 +1,4 @@
-##App Setup instructions
+### App Setup instructions
 -----------------------
 
 Unity Version > 2018.2.14f1
@@ -18,9 +18,9 @@ The different states of the app are controlled by turning on and off gameobjects
 
 
 
-StorytellAR
+### StorytellAR
 
-This is a prototype developed by NEEEU Spaces GmbH and Museum4punkt0 to test different concepts on how Augmented Reality can help to develop innovative forms of storytelling in the context of guided tours in Museums.
+This is a prototype developed by NEEEU Spaces GmbH and museum4punkt0 to test different concepts on how Augmented Reality can help to develop innovative forms of storytelling in the context of guided tours in Museums.
 This is a Unity Project, you need Unity 2018.2.14f1 to run the code.
 ARKit is used in this project, and it works only for iOS devices which are compatible.
 The repository depends on the [OSC Simpl] (https://assetstore.unity.com/packages/tools/input-management/osc-simpl-53710) library from the Unity Store. This is a paid package.
@@ -87,14 +87,20 @@ Contributing
 "If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome."
 
 Links
-Museum4punkt0 website: https://www.museum4punkt0.de/en/
+museum4punkt0 website: https://www.museum4punkt0.de/en/
+Staatliche Museen zu Berin - Stiftung Preußischer Kulturbesitz: https://www.smb.museum
 NEEEU website: www.neu.io
 Project homepage in NEEEU’s website: https://www.neeeu.io/portfolio/projects/ethnologische_museum/
 Repository: https://bitbucket.org/neu-io/storytellar_museum40
 
+### Licensing
+-----------------------
 
-Licensing
-Copyright © 2018 NEEEU Spaces GmbH
+This prototype is part of the project museum4punkt0 - Digital Strategies for the Museum of the Future. Further information: www.museum4punkt0.de
+
+The project museum4punkt0 is funded by the Federal Government Commissioner for Culture and the Media in accordance with a resolution issued by the German Bundestag (Parliament of the Federal Republic of Germany).
+
+Copyright © 2018 museum4punkt0 / NEEEU Spaces GmbH
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
