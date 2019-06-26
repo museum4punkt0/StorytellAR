@@ -13,9 +13,9 @@
 
 This is a prototype developed by NEEEU Spaces GmbH and museum4punkt0 to test different concepts on how Augmented Reality can help to develop innovative forms of storytelling in the context of guided tours in Museums.
 
-This prototype is part of the project museum4punkt0 - Digital Stra-tegies for the Museum of the Future, sub-project Rethinking Visitor Journeys. Further information: www.museum4punkt0.de/en/.  
+This prototype is part of the project museum4punkt0 - Digital Strategies for the Museum of the Future, sub-project Rethinking Visitor Journeys. Further information: www.museum4punkt0.de/en/.  
 
-The project museum4punkt0 is funded by the Federal Government Commissioner for Cul-ture and the Media in accordance with a resolution issued by the German Bundestag (Par-liament of the Federal Republic of Germany).
+The project museum4punkt0 is funded by the Federal Government Commissioner for Culture and the Media in accordance with a resolution issued by the German Bundestag (Parliament of the Federal Republic of Germany).
 
 ## Technical Documentation
 
@@ -42,7 +42,7 @@ The paid package simpleOSC is used to manage the communication among devices. It
 
 The control of the events is done using a feature of Unity called Timeline. For more information on the Timeline, check the Unity documentation (https://docs.unity3d.com/Manual/TimelineSection.html).
 
-Baaditrack is the name of a control track in the Timeline. You can set cue points on the timeline and switch to them via public methods. In order to understand it, please see: https://docs.unity3d.com/ScriptReference/Playables.PlayableDirector-time.html
+Baaditrack is the name of a control track in the Timeline. You can set cue points on the timeline and switch to them via public methods. In order to understand it, please see: https://docs.unity3d.com/ScriptReference/Playables.PlayableDirector-time.html.
 
 ## Installing
 
@@ -99,7 +99,7 @@ The “digital” world of every device needs to share a system of coordinates. 
 This image needs to be printed in the size specified in the code, when defining the marker within the ARKit features. It currently is 32cm wide.
 If the tracking is lost, the devices need to “see” the marker again to recalibrate its spatial position.
 
-### Contributing
+## Contributing
 
 "If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome."
 
