@@ -7,7 +7,7 @@
 - [Using the app](#Using-the-app)
 - [Contributing](#Contributing)  
 - [Credits](#Credits) 
-- [Licensing](#Licensing) 
+- [Licensing](#Licensing)  
 
 ## Description
 
