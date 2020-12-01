@@ -124,7 +124,7 @@ Design and Programming: NEEEU Spaces GmbH in colaboration with museum4punkt0
 
 ## Licensing
 
-MIT license 2020 (c) museum4punkt0 - Staatliche Museen zu Berlin / NEEEU Spaces GmbH 
+MIT license 2018 (c) museum4punkt0 - Staatliche Museen zu Berlin / NEEEU Spaces GmbH 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
